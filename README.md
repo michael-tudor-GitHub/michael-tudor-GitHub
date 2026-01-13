@@ -6,7 +6,7 @@ I spent 17 years building and running a full-service e-commerce agency. I built 
 
 ---
 
-## The Problem I Solve
+## 🎯 The Problem I Solve
 
 Agencies are drowning in AI tools but starving for results. Everyone's subscribed to ChatGPT, Midjourney, and a dozen other apps, but outputs are inconsistent, nobody knows what anything costs, and leadership can't tell if AI is helping or just adding noise.
 
@@ -22,9 +22,9 @@ Then I ship custom agents for your biggest bottlenecks — proposals, hiring, ad
 
 ---
 
-## What I've Shipped
+## 🚀 What I've Shipped
 
-### Multi-Model AI Chat Platform
+### 💬 Multi-Model AI Chat Platform
 **October 2024 - Present**
 
 The foundation. A private chat workspace that looks like ChatGPT but lets you pick your model, compare two side-by-side, and ground answers in your knowledge base. Teams get citations, not hallucinations. Prompts are shared, not siloed. Agents are built once and run by everyone.
@@ -33,7 +33,7 @@ Built on LibreChat. Deployed on-prem or in your cloud. No data leaves your contr
 
 ---
 
-### AI ROI Dashboard
+### 📊 AI ROI Dashboard
 **June 2025 - Present**
 
 The first thing every CEO asks: *"What's this costing us?"*
@@ -44,7 +44,7 @@ Now leadership can prove ROI instead of guessing.
 
 ---
 
-### Cost Analysis & Proposal Agent
+### 💰 Cost Analysis & Proposal Agent
 **May 2025 - Present**
 
 I watched too many agencies spend 10 hours turning discovery notes into a defensible estimate. So I built an agent that does it in 2.
@@ -55,7 +55,7 @@ Saved roles and rates. Margin on true cost. Repeatable every time.
 
 ---
 
-### Recruitment & Retention Platform
+### 🎯 Recruitment & Retention Platform
 **February 2024 - Present**
 
 Hiring was taking 3 weeks from application to offer. Now it takes 10 days.
@@ -66,7 +66,7 @@ The result: faster hires, better matches, less rework.
 
 ---
 
-### Ad Intelligence & Generation Agent
+### 🎨 Ad Intelligence & Generation Agent
 **April 2025 - Present**
 
 Take a top-performing image ad. This agent extracts the repeatable patterns — offer, hook, angle, CTA, layout — then generates 10+ fresh variants (copy, headline, image) in minutes. Everything goes through human approval before it ships.
@@ -75,54 +75,54 @@ Layout controls keep variants distinct. Approval feedback trains the next batch.
 
 ---
 
-## The RIPEN Years (2004-2021)
+## 🏢 The RIPEN Years (2004-2021)
 
-I founded RIPEN in 2004 and ran it for 17 years. We built a proprietary e-commerce platform and scaled through product-led services. We did end-to-end commerce programs — discovery, UX/CRO, builds, integrations, optimization — for DTC and B2B brands on Magento and Shopify.
+I founded **RIPEN** in 2004 and ran it for 17 years. We built a proprietary e-commerce platform and scaled through product-led services. We did end-to-end commerce programs — discovery, UX/CRO, builds, integrations, optimization — for DTC and B2B brands on Magento and Shopify.
 
-In 2016, I launched **Ripen Studios** to produce photo and video content in-studio and on-location. We shot for apparel, beauty, and lifestyle brands with repeatable workflows and detailed style guidelines that kept content consistent year after year.
+In 2016, I launched **Ripen Studios** 📸 to produce photo and video content in-studio and on-location. We shot for apparel, beauty, and lifestyle brands with repeatable workflows and detailed style guidelines that kept content consistent year after year.
 
 We served global brands and bootstrapped founders. We supported scale-ups through successful exits. And we built internal systems that improved speed, quality, and repeatability across every project.
 
-I sold both companies in 2021.
+I sold both companies in 2021. 🎉
 
 ---
 
-## What I Do Now (2021-Present)
+## 🛠️ What I Do Now (2021-Present)
 
 I get brought in to turn scattered AI experiments into cohesive private systems. I set standards for prompts, roles, governance, and QA so outputs stay consistent and production-usable. I build and deploy workflow apps and agents in secure multi-model workspaces. I implement RAG on SOPs, client context, and delivery data so answers are accurate and reusable.
 
 I also advise CEOs and leadership teams on growth strategy across product, go-to-market, and operations. I develop new AI-powered products and services. I implement sales process and operational systems. I'm often brought in by former competitors to build what they can't build themselves.
 
-And I help investors drive production and efficiency out of their portfolio companies.
+And I help investors 💼 drive production and efficiency out of their portfolio companies.
 
 ---
 
-## Teaching & Mentorship
+## 🎓 Teaching & Mentorship
 
 I mentor select CS students using AI, data, and real business requirements to ship end-to-end projects. We focus on career skills, communication, internship readiness, and portfolios that show up in interviews. Students learn to solve real problems with modern tools while developing the soft skills that separate good engineers from great hires.
 
 ---
 
-## Outcomes I've Delivered
+## 📈 Outcomes I've Delivered
 
-**Time-to-hire:** 3 weeks → 10 days  
-**Scoping/SOW/timelines:** 10 hours → under 2 hours  
-**Delivery cycles:** 3 months → 1 month  
+**⏱️ Time-to-hire:** 3 weeks → 10 days  
+**📝 Scoping/SOW/timelines:** 10 hours → under 2 hours  
+**🚢 Delivery cycles:** 3 months → 1 month  
 
-And AI workflows with up to 10x improvement in the right roles and processes.
+And AI workflows with up to **10x improvement** in the right roles and processes.
 
 ---
 
-## Technical Stack
+## 🔧 Technical Stack
 
-### AI Infrastructure
+### 🤖 AI Infrastructure
 - Custom AI applications and agent deployment
 - LLM fine-tuning and optimization
 - RAG (Retrieval-Augmented Generation) implementation
 - LibreChat-based chat product development
 - Multi-model infrastructure (OpenAI, Anthropic, Google)
 
-### Integration & Tooling
+### 🔌 Integration & Tooling
 - Slack, email/calendar workflows
 - GA4, Shopify e-commerce
 - Jira/Linear project management
@@ -143,9 +143,8 @@ Bachelor of Science (BS), Marketing
 ## 🔗 Connect
 
 **LinkedIn:** https://www.linkedin.com/in/michaelwtudor/  
-**Company:** ripen.com
 
 ---
 
-**Want to know how I can help your agency?**  
+**💡 Want to know how I can help your agency?**  
 Message me the 1 workflow you want shipped in 30 days.

@@ -1,174 +1,126 @@
 # Michael Tudor
 
-**Founder | AI Systems Builder for Digital Agencies**
+**Founder • AI Systems Builder • Agency Operator Turned Infrastructure Developer**
 
-**Multi-Model AI Infrastructure • Agent Workflows • RAG Implementation • 30-Day Delivery**
-
-I design and ship private AI systems that deliver measurable output in 30 days. I combine 20+ years of agency operations and product leadership with modern AI infrastructure to help digital agencies turn scattered experiments into cohesive systems that drive real ROI.
-
-**Top Skills:** Retrieval-Augmented Generation (RAG) • Image Generation • Prompt Engineering
+I spent 17 years building and running a full-service e-commerce agency. I built the platform, scaled the team, launched a photo/video studio, and sold both companies in 2021. Then I turned everything I learned about agency operations into private AI infrastructure that helps teams ship faster, price smarter, and prove ROI.
 
 ---
 
-## 🎯 What I Do
+## The Problem I Solve
 
-I advise agency owners and implement across three layers:
+Agencies are drowning in AI tools but starving for results. Everyone's subscribed to ChatGPT, Midjourney, and a dozen other apps, but outputs are inconsistent, nobody knows what anything costs, and leadership can't tell if AI is helping or just adding noise.
 
-### AI OS
-Multi-model infrastructure across text, image, audio, and video
+I fix that.
 
-### Application
-Custom chat apps and agent workflows
+I build private AI ecosystems that replace tool sprawl with a single secure workspace where teams can:
+- Switch between OpenAI, Anthropic, and Google models mid-conversation
+- Ground every answer in your SOPs, client briefs, and project history
+- Run repeatable workflows through a shared prompt library and agent builder
+- Track what's being used, what it's costing, and what it's actually saving
 
-### Knowledge
-RAG tied to your SOPs, client context, and production data
-
----
-
-## 📊 Outcomes I've Delivered
-
-**Time-to-hire:** 3 weeks → 10 days with ranking, summaries, and interview kits
-
-**Scoping/SOW/timelines:** 10 hours across multiple people → under 2 hours
-
-**Delivery:** 3 months → 1 month across planning, build, QA, and documentation
+Then I ship custom agents for your biggest bottlenecks — proposals, hiring, ad creative, whatever's eating your margin.
 
 ---
 
-## 🚀 Featured Projects
+## What I've Shipped
 
 ### Multi-Model AI Chat Platform
 **October 2024 - Present**
 
-Built a private, agency-installed chat workspace that replaces ChatGPT with model choice, shared prompts, and knowledge grounding.
+The foundation. A private chat workspace that looks like ChatGPT but lets you pick your model, compare two side-by-side, and ground answers in your knowledge base. Teams get citations, not hallucinations. Prompts are shared, not siloed. Agents are built once and run by everyone.
 
-- Let teams choose the model per question and compare 2 side-by-side across OpenAI, Anthropic, and Google
-- Grounded answers with optional RAG + citations, using agency docs and per-client knowledge bases
-- Standardized workflows with a shared prompt library and agent builder for repeatable outputs
+Built on LibreChat. Deployed on-prem or in your cloud. No data leaves your control.
+
+---
 
 ### AI ROI Dashboard
 **June 2025 - Present**
 
-Built a client-facing dashboard that shows leaders what's being used, what it's costing, and where it's paying off, down to the team and employee level.
+The first thing every CEO asks: *"What's this costing us?"*
 
-- Made AI adoption and spend visible in real time for CEOs/CFOs across every client workspace and team
-- Mapped usage to dollars by tracking messages, images, agent runs, and prompts, with time-saved estimates
-- Added thumbs up/down feedback with reasons so teams improve prompts and agents based on user reactions
+I built a dashboard that shows AI adoption and spend in real time — messages, images, agent runs, prompts — down to the team and employee level. It maps usage to dollars and estimates time saved. Includes thumbs up/down feedback so teams can see which prompts and agents actually work and which ones need fixing.
+
+Now leadership can prove ROI instead of guessing.
+
+---
 
 ### Cost Analysis & Proposal Agent
 **May 2025 - Present**
 
-Built an internal estimating system that turns discovery into an approved cost model, then outputs a client-ready SOW, timeline, and task plan.
+I watched too many agencies spend 10 hours turning discovery notes into a defensible estimate. So I built an agent that does it in 2.
 
-- Cut turnaround 10h to 2h by turning notes or transcripts into a draft for strategist + engineering review
-- Made pricing defensible with role-based effort plus assumptions, risks, and change-order triggers
-- Standardized estimates with saved roles/rates, margin on true cost, and exports (SOW, timeline, CSV task list)
+Feed it transcripts or notes. It outputs a role-based cost model with assumptions, risks, and change-order triggers. Then it generates a client-ready SOW, timeline, and CSV task list. Strategist + engineering review once, ship to client.
+
+Saved roles and rates. Margin on true cost. Repeatable every time.
+
+---
 
 ### Recruitment & Retention Platform
 **February 2024 - Present**
 
-Built a hiring workspace that turns resumes and work samples into clear rankings, interview kits, and onboarding plans so teams hire faster with less overhead.
+Hiring was taking 3 weeks from application to offer. Now it takes 10 days.
 
-- Cut time-to-hire 3 weeks to 10 days with fit scoring, re-ranked pipelines, and apples-to-apples briefs
-- Improved screening by analyzing resumes plus portfolios, writing, and GitHub, against the job description
-- Produced interview kits and 30/60/90 onboarding plans to align the hiring team and set post-hire expectations
+This agent analyzes resumes plus portfolios, writing samples, and GitHub repos against the job description. It scores fit, re-ranks the pipeline, and produces apples-to-apples candidate briefs. Then it generates interview kits and 30/60/90 onboarding plans so the hiring team is aligned before anyone walks in the door.
+
+The result: faster hires, better matches, less rework.
+
+---
 
 ### Ad Intelligence & Generation Agent
 **April 2025 - Present**
 
-Takes a top-performing image ad and produces ready-to-review variants so teams can test more creative without adding production overhead.
+Take a top-performing image ad. This agent extracts the repeatable patterns — offer, hook, angle, CTA, layout — then generates 10+ fresh variants (copy, headline, image) in minutes. Everything goes through human approval before it ships.
 
-- Generates 10+ fresh variants (copy, headline, image) in minutes, with human approval before anything ships
-- Extracts repeatable patterns from winners (offer, hook, angle, CTA, layout) to guide the next batch of tests
-- Keeps variants distinct with layout controls, then uses approval feedback to improve future rounds
+Layout controls keep variants distinct. Approval feedback trains the next batch. The goal: test more creative without adding production overhead.
 
 ---
 
-## 🛠️ What I Deploy
+## The RIPEN Years (2004-2021)
 
-A private, multi-model AI ecosystem for your team controlled by a secure chat UI, powered by multiple models, an agent builder, a shared prompt library, and a RAG knowledge base.
+I founded RIPEN in 2004 and ran it for 17 years. We built a proprietary e-commerce platform and scaled through product-led services. We did end-to-end commerce programs — discovery, UX/CRO, builds, integrations, optimization — for DTC and B2B brands on Magento and Shopify.
 
-Then I add workflow tools based on your bottlenecks.
+In 2016, I launched **Ripen Studios** to produce photo and video content in-studio and on-location. We shot for apparel, beauty, and lifestyle brands with repeatable workflows and detailed style guidelines that kept content consistent year after year.
 
-### Common Starting Points
+We served global brands and bootstrapped founders. We supported scale-ups through successful exits. And we built internal systems that improved speed, quality, and repeatability across every project.
 
-**Proposal agent:** Discovery notes and transcripts → cost analysis, SOW, timeline, proposal
-
-**Hiring agent:** Ranked pool → shortlists, candidate briefs, interview kits
-
-**AI ROI dashboard:** Usage and cost by model and employee, plus agent utilization and estimated labor saved
-
-I also build custom agents across sales, marketing, delivery, account management, and ops.
+I sold both companies in 2021.
 
 ---
 
-## 💼 Experience
+## What I Do Now (2021-Present)
 
-### Founder & CEO | Michael Tudor
-**November 2021 - Present**
+I get brought in to turn scattered AI experiments into cohesive private systems. I set standards for prompts, roles, governance, and QA so outputs stay consistent and production-usable. I build and deploy workflow apps and agents in secure multi-model workspaces. I implement RAG on SOPs, client context, and delivery data so answers are accurate and reusable.
 
-Brought in to turn scattered AI experiments into a cohesive private system, with rollout and adoption across the team.
+I also advise CEOs and leadership teams on growth strategy across product, go-to-market, and operations. I develop new AI-powered products and services. I implement sales process and operational systems. I'm often brought in by former competitors to build what they can't build themselves.
 
-- Set standards (prompts, roles, governance, QA) so outputs stayed consistent and production-usable
-- Built and deployed workflow apps and agents in a secure multi-model workspace (chat + automation)
-- Implemented RAG on SOPs, client context, and delivery data for accurate, reusable outputs
-
-### Founder & CEO | RIPEN
-**November 2004 - October 2021 (17 years)**
-
-Founded and led Ripen, an e-commerce agency, in 2004. Built Ripen eCommerce, our internal platform, and scaled through product-led services. Launched Ripen Studios in 2016 to produce photo and video content that improved merchandising and conversion. Sold both companies in 2021.
-
-Full-service e-commerce agency delivering growth strategy, UX, and engineering for DTC and B2B brands across Magento and Shopify.
-
-- Led end-to-end commerce programs: discovery, UX/CRO, builds + integrations, optimization
-- Built internal platforms and delivery systems that improved speed, quality, repeatability
-- Served global brands and bootstrapped founders; supported scale-ups through successful exits
-
-### Founder & CEO | Ripen Studios
-**May 2016 - September 2021 (5 years 5 months)**
-
-E-commerce photo + video studio producing product content for websites and marketing, in-studio and on-location.
-
-- Produced photo + video together with repeatable workflows that kept output consistent
-- Supported apparel, beauty, and lifestyle brands across seasonal and always-on shoots
-- Defined and enforced detailed style guidelines so content stayed accurate year after year
+And I help investors drive production and efficiency out of their portfolio companies.
 
 ---
 
-## 🎓 Education
+## Teaching & Mentorship
 
-**Rider University**
-Bachelor of Science (BS), Marketing
-
----
-
-## 🤝 Strategic Advisory
-
-I partner with CEOs and leadership teams to:
-
-- Develop new AI-powered products and services
-- Implement sales process and operational systems
-- Build practical AI workflows with proven prompt standards
-- Deploy secure, private AI ecosystems that connect models, workflows, and data
-
-I also help investors drive production and efficiency out of their portfolio companies.
+I mentor select CS students using AI, data, and real business requirements to ship end-to-end projects. We focus on career skills, communication, internship readiness, and portfolios that show up in interviews. Students learn to solve real problems with modern tools while developing the soft skills that separate good engineers from great hires.
 
 ---
 
-## 🎓 CS Student Mentorship
+## Outcomes I've Delivered
 
-I mentor select CS students using AI, data, and real business requirements to ship end-to-end projects while building career, communication, and internship-readiness skills that show up in interviews and portfolios.
+**Time-to-hire:** 3 weeks → 10 days  
+**Scoping/SOW/timelines:** 10 hours → under 2 hours  
+**Delivery cycles:** 3 months → 1 month  
+
+And AI workflows with up to 10x improvement in the right roles and processes.
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### AI Infrastructure
 - Custom AI applications and agent deployment
 - LLM fine-tuning and optimization
 - RAG (Retrieval-Augmented Generation) implementation
 - LibreChat-based chat product development
-- Secure, private AI ecosystem design
+- Multi-model infrastructure (OpenAI, Anthropic, Google)
 
 ### Integration & Tooling
 - Slack, email/calendar workflows
@@ -177,15 +129,23 @@ I mentor select CS students using AI, data, and real business requirements to sh
 - Notion/Confluence knowledge bases
 - HubSpot CRM automation
 
-### Stay Current
-I track relevant releases and feature changes from OpenAI, Google (Gemini), and Anthropic (Claude), focusing on practical updates for agents, RAG/knowledge retrieval, and tool integrations that improve agency workflows.
+I track releases from OpenAI, Google (Gemini), and Anthropic (Claude), focusing on practical updates for agents, RAG, and tool integrations that improve agency workflows.
+
+---
+
+## 🎓 Education
+
+**Rider University**  
+Bachelor of Science (BS), Marketing
 
 ---
 
 ## 🔗 Connect
 
 **LinkedIn:** https://www.linkedin.com/in/michaelwtudor/  
+**Company:** ripen.com
 
 ---
 
-**Want to know how I can help your agency?** Message me the 1 workflow you want shipped in 30 days.
+**Want to know how I can help your agency?**  
+Message me the 1 workflow you want shipped in 30 days.

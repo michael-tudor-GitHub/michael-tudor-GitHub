@@ -26,13 +26,13 @@ Then I ship custom agents for your biggest bottlenecks — proposals, hiring, ad
 
 ## ⚡ AI as Leverage, Not a Shortcut
 
-Last year I used AI to think clearer, move faster, and ship real products.
+I use AI to think clearer, move faster, and ship real products.
 
-I used it to write and refactor code. I used it to shape architecture and pressure-test decisions. I used it to replace manual workflows with agents that do real work. I used it across text, images, video, and voice.
+I use it to write and refactor code. I use it to shape architecture and pressure-test decisions. I use it to replace manual workflows with agents that do real work. I use it across text, images, video, and voice.
 
-Productivity didn't just improve. It skyrocketed.
+Productivity doesn't just improve. It skyrockets.
 
-And it wasn't just ChatGPT. I rotated between OpenAI, Claude, and Gemini. I built on APIs. 250M+ tokens running through real user flows.
+And it isn't just ChatGPT. I rotate between OpenAI, Claude, and Gemini. I build on APIs. 250M+ tokens a year running through real user flows.
 
 **The result:** One person can operate with the leverage of an entire team.
 

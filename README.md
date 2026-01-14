@@ -45,7 +45,7 @@ And it wasn't just ChatGPT. I rotated between OpenAI, Claude, and Gemini. I buil
 
 The foundation. A private chat workspace that looks like ChatGPT but lets you pick your model, compare two side-by-side, and ground answers in your knowledge base. Teams get citations, not hallucinations. Prompts are shared, not siloed. Agents are built once and run by everyone.
 
-Built on LibreChat. Deployed on-prem or in your cloud. No data leaves your control.
+Built using React. Deployed on-prem or in your cloud. No data leaves your control.
 
 ---
 

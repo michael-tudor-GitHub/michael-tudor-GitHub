@@ -4,6 +4,8 @@
 
 I spent 17 years building and running a full-service e-commerce agency. I built the platform, scaled the team, launched a photo/video studio, and sold both companies in 2021. Then I turned everything I learned about agency operations into private AI infrastructure that helps teams ship faster, price smarter, and prove ROI.
 
+**Top 0.1% of ChatGPT users** • 24,740 messages in 2025 • 250M+ tokens through production systems
+
 ---
 
 ## 🎯 The Problem I Solve
@@ -19,6 +21,20 @@ I build private AI ecosystems that replace tool sprawl with a single secure work
 - Track what's being used, what it's costing, and what it's actually saving
 
 Then I ship custom agents for your biggest bottlenecks — proposals, hiring, ad creative, whatever's eating your margin.
+
+---
+
+## ⚡ AI as Leverage, Not a Shortcut
+
+Last year I used AI to think clearer, move faster, and ship real products.
+
+I used it to write and refactor code. I used it to shape architecture and pressure-test decisions. I used it to replace manual workflows with agents that do real work. I used it across text, images, video, and voice.
+
+Productivity didn't just improve. It skyrocketed.
+
+And it wasn't just ChatGPT. I rotated between OpenAI, Claude, and Gemini. I built on APIs. 250M+ tokens running through real user flows.
+
+**The result:** One person can operate with the leverage of an entire team.
 
 ---
 
@@ -79,7 +95,7 @@ Layout controls keep variants distinct. Approval feedback trains the next batch.
 
 I founded **RIPEN** in 2004 and ran it for 17 years. We built a proprietary e-commerce platform and scaled through product-led services. We did end-to-end commerce programs — discovery, UX/CRO, builds, integrations, optimization — for DTC and B2B brands on Magento and Shopify.
 
-In 2016, I launched **Ripen Studios** 📸 to produce photo and video content in-studio and on-location. We shot for apparel, beauty, and lifestyle brands with repeatable workflows and detailed style guidelines that kept content consistent year after year.
+In 2016, I launched **RIPEN Studios** 📸 to produce photo and video content in-studio and on-location. We shot for apparel, beauty, and lifestyle brands with repeatable workflows and detailed style guidelines that kept content consistent year after year.
 
 We served global brands and bootstrapped founders. We supported scale-ups through successful exits. And we built internal systems that improved speed, quality, and repeatability across every project.
 
@@ -97,9 +113,31 @@ And I help investors 💼 drive production and efficiency out of their portfolio
 
 ---
 
-## 🎓 Teaching & Mentorship
+## 🎓 CS Student Mentorship
 
-I mentor select CS students using AI, data, and real business requirements to ship end-to-end projects. We focus on career skills, communication, internship readiness, and portfolios that show up in interviews. Students learn to solve real problems with modern tools while developing the soft skills that separate good engineers from great hires.
+Most CS students aren't missing talent. They're missing a shipped project that proves they can do the job.
+
+Earlier this year, a friend's son reached out. He was a student-athlete at a top-tier tech school with a strong GPA and extracurriculars. On paper, he checked every box. But there was still a major gap between coursework and what top internships expect.
+
+I designed an 8-week, end-to-end project to close it. He built a full-stack dashboard using:
+
+- **Next.js, React, and TypeScript**
+- **Tailwind CSS**
+- **OAuth-based authentication**
+- **External APIs and AI-assisted analysis**
+
+Everything was pushed to GitHub and deployed on Vercel.
+
+**The result:** He's now heading into the third round of interviews with the NBA and is in process with several other highly competitive internships.
+
+Since then, I've worked with a few more CS and math majors to build the same kind of shipped, real-world work. We focus on:
+
+- 📦 **Shipped projects** that show up in portfolios
+- 💼 **Career readiness** — communication, presentation, interview prep
+- 🛠️ **Production-grade execution** with modern tools
+- 🎯 **Real business requirements** that translate to internship skills
+
+If you're a CS student (or know one) who wants to accelerate internship readiness, reach out.
 
 ---
 
@@ -121,6 +159,14 @@ And AI workflows with up to **10x improvement** in the right roles and processes
 - RAG (Retrieval-Augmented Generation) implementation
 - LibreChat-based chat product development
 - Multi-model infrastructure (OpenAI, Anthropic, Google)
+- 250M+ tokens through production APIs
+
+### 💻 Full-Stack Development
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, REST APIs
+- **Databases:** MongoDB, PostgreSQL (pgvector), MySQL, Redis
+- **Analysis:** Python, pandas, NumPy, Matplotlib
+- **AI/ML:** OpenAI API, embeddings, RAG, fine-tuning
 
 ### 🔌 Integration & Tooling
 - Slack, email/calendar workflows
@@ -128,6 +174,8 @@ And AI workflows with up to **10x improvement** in the right roles and processes
 - Jira/Linear project management
 - Notion/Confluence knowledge bases
 - HubSpot CRM automation
+- OAuth-based authentication
+- Vercel deployment
 
 I track releases from OpenAI, Google (Gemini), and Anthropic (Claude), focusing on practical updates for agents, RAG, and tool integrations that improve agency workflows.
 
@@ -146,5 +194,17 @@ Bachelor of Science (BS), Marketing
 
 ---
 
-**💡 Want to know how I can help your agency?**  
-Message me the 1 workflow you want shipped in 30 days.
+**💡 Want to know how I can help?**
+
+- **Agencies:** Message me the 1 workflow you want shipped in 30 days
+- **CS Students:** Looking to accelerate internship readiness? Let's talk
+- **Investors:** Need to drive efficiency in your portfolio? Reach out
+
+---
+
+**📊 By the Numbers**
+- Top 0.1% of ChatGPT users
+- 24,740 messages sent in 2025
+- 250M+ API tokens through production systems
+- 17 years operating a full-service agency
+- Multiple successful exits
